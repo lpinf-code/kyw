@@ -1,0 +1,13 @@
+App(
+    appid="kyw",
+    name="Kill Your Wifi",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="kyw_app",
+    stack_size=2 * 1024,
+    fap_category="GPIO",
+    fap_icon="kyw.png",
+    fap_description="ESP8266 De-auther Interface",
+    fap_author="lpinf & d3adplays",
+    fap_weburl="https://github.com/lpinf-code/kyw",
+    fap_icon_assets="images",
+)

@@ -1,0 +1,9 @@
+# Built packages
+dist
+
+# VSCode workspace
+.vscode
+
+# Local stuff
+.lhd
+compile_flags.txt
